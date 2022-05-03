@@ -82,7 +82,7 @@ section .home-content-inner h2{
     right: 0;
     width: 60px;
     height: 60px;
-    background: var(--primary-color) url(../dist/images/menu.png); 
+    background: var(--primary-color) url(images/menu.png); 
     background-size: 40px;
     background-position: center;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ section .home-content-inner h2{
 }
 
 .toggle.active{
-    background: var(--primary-color) url(../dist/images/close1.png); 
+    background: var(--primary-color) url(images/close1.png); 
     background-size: 50px;
     background-position: center;
     background-repeat: no-repeat;
