@@ -1,2 +1,4 @@
 npm init - intialises package.json file.
 git init - creates a hidden folder called .git
+
+Here I use the gh-pages npm module to easily deploy any frontend app or website to Github pages.
