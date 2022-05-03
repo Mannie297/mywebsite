@@ -1,0 +1,2 @@
+npm init - intialises package.json file.
+git init - creates a hidden folder called .git
