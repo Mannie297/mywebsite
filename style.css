@@ -78,10 +78,10 @@ section .home-content-inner h2{
 
 .toggle{
     position: fixed;
-    top: 0;
-    right: 0;
-    width: 60px;
-    height: 60px;
+    top: 2%;
+    right: 2%;
+    width: 40px;
+    height: 40px;
     background: var(--primary-color) url(images/menu.png); 
     background-size: 40px;
     background-position: center;
