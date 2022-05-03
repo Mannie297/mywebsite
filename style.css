@@ -391,7 +391,7 @@ section.home{
         margin: 0;
     }
 
-    section.home-content h1{
+    section .home-content h1{
         font-size: 15px;
         font-weight: 800;
         color: #f60f20;
