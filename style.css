@@ -392,8 +392,9 @@ section.home{
     }
 
     section.home-content h1{
-        font-size: 20px;
+        font-size: 15px;
         font-weight: 800;
+        color: #f60f20;
 
     }
 
