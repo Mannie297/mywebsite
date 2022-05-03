@@ -376,7 +376,7 @@ section.home{
     
 }
 
-@media(max-width: 500px){
+@media(max-width: 600px){
     .services{
         grid-template-columns: 1fr;
     }
