@@ -423,7 +423,7 @@ section .home-content-inner h2{
     }
 
     .logo{
-        margin-top: 1.5rem;
+        top: 10px;
     }
 
 }
