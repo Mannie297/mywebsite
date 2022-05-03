@@ -391,4 +391,9 @@ section.home{
         margin: 0;
     }
 
+    .section .home-content h1{
+        font-size: 0.5rem;
+
+    }
+
 }
