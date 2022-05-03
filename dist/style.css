@@ -40,6 +40,12 @@ section.home{
     margin-top: 0;
 }
 
+section .home-content-inner h2{
+    position: absolute;
+    top: 12%;
+    color: #f60f20;
+}
+
 .btn{
     cursor: pointer;
     display: inline-block; /*by default, links (a-tag) tags are displayed in-line, you need this to break off*/
@@ -348,6 +354,12 @@ section.home{
 
     section{
         padding: 100px 40px;
+    }
+
+    section .home-content-inner h2{
+        position: absolute;
+        top: 8%;
+        color: #f60f20;
     }
 
     .navigation ul li a{
