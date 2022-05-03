@@ -418,12 +418,12 @@ section .home-content-inner h2{
 
     section .home-content-inner h2{
         position: absolute;
-        top: 8%;
+        top: 12%;
         color: #f60f20;
     }
 
     .logo{
-        margin-top: 2rem;
+        margin-top: 1.5rem;
     }
 
 }
